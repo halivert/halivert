@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**halivert/halivert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fullstack developer 🦏
 
-Here are some ideas to get you started:
+## Frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on learning React.
+I'm confortable with Vue2 and Vue3.
+
+## Backend
+
+I can develop Laravel (PHP) applications and know a little of Flask (Python) and Express (JavaScript).
+
+## Contact
+
+I can help you with topics like: math, databases, html, css, js, algorithms, and others.
+I enjoy teaching and mentoring.
+You can send me an email [hali@halivert.dev](mailto:hali@halivert.dev).
+
+## Fun facts:
+- I love Rhinoceroses.
+- I'm afraid of street corners.
