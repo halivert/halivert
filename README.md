@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Fullstack developer 🦏
 
 ## Frontend
@@ -19,4 +17,4 @@ You can send me an email [hali@halivert.dev](mailto:hali@halivert.dev).
 
 ## Fun facts:
 - I love Rhinoceroses.
-- I'm afraid of street corners.
+- I don't like street corners.
