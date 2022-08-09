@@ -3,11 +3,11 @@
 ## Frontend
 
 I'm focused on learning React.
-I'm confortable with Vue2 and Vue3.
+I'm comfortable with Vue2 and Vue3.
 
 ## Backend
 
-I can develop Laravel (PHP) applications and know a little of Flask (Python) and Express (JavaScript).
+I can develop Laravel (PHP) applications and know a little of Flask (Python) and Express (JavaScript, Typescript).
 
 ## Contact
 
