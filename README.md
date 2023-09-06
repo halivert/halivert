@@ -1,4 +1,4 @@
-# Fullstack developer 🦏
+# Software developer 🦏
 
 ## Frontend
 
